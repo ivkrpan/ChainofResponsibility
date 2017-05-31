@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Artikl.cs" />
+    <Compile Include="ArtiklKava.cs" />
+    <Compile Include="ArtiklSokić.cs" />
+    <Compile Include="ArtiklČokoladica.cs" />
+    <Compile Include="BazniArtikl.cs" />
+    <Compile Include="KrajLanca.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
